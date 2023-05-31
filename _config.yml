@@ -22,12 +22,12 @@ author: Ngày hôm đó
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Tôi là tôi: "https://langthang1minh.github.io/"
-    - Quách Thành Danh: "https://langthang1minh.github.io/"
-    - Lâm Chí Dĩnh: "https://langthang1minh.github.io/"
-  Author's home: "https://langthang1minh.github.io/"
-    - Facebook: "https://langthang1minh.github.io/"
-    - Youtube: "https://langthang1minh.github.io/"
+    - Tôi là tôi: "https://langthang1minh.github.io"
+    - Quách Thành Danh: "https://langthang1minh.github.io"
+    - Lâm Chí Dĩnh: "https://langthang1minh.github.io"
+  Author's home: "https://langthang1minh.github.io"
+    - Facebook: "https://langthang1minh.github.io"
+    - Youtube: "https://langthang1minh.github.io"
 
 ################
 # --- Logo --- #
@@ -100,7 +100,7 @@ share-links-active:
 url-pretty: "langthang1minh.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 25
+excerpt_length: 15
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -152,7 +152,7 @@ footer-hover-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+site-css: "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
