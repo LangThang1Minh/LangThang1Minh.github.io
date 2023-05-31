@@ -13,7 +13,7 @@
 title: Lang Thang 1 Mình
 
 # Your name to show in the footer
-author: ngayhomdo
+author: Ngày hôm đó
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,12 +22,12 @@ author: ngayhomdo
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://langthang1minh.github.io/"
-    - Learn markdown: "https://langthang1minh.github.io/"
-    - Link thứ 3: "https://langthang1minh.github.io/"
+    - Tôi là tôi: "https://langthang1minh.github.io/"
+    - Quách Thành Danh: "https://langthang1minh.github.io/"
+    - Lâm Chí Dĩnh: "https://langthang1minh.github.io/"
   Author's home: "https://langthang1minh.github.io/"
-  - Facebook: "https://langthang1minh.github.io/"
-  - Youtube: "https://langthang1minh.github.io/"
+    - Facebook: "https://langthang1minh.github.io/"
+    - Youtube: "https://langthang1minh.github.io/"
 
 ################
 # --- Logo --- #
@@ -54,7 +54,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: ngayhomdo
   github: daattali
   twitter: daattali
   patreon: DeanAttali
